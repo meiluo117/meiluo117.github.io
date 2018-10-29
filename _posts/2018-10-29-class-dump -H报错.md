@@ -19,14 +19,12 @@ class-dump -H时报错，可能是因为该项目是用OC和Swift混编。
 Error: Cannot find offset for address 0x580000000100bcd8 in stringAtAddress: 错误。
 
 #### 更新class-dump
-下载个新的class-dump，链接如下
-
-下载:https://pan.baidu.com/s/128q6WLPUsrPYZN9NQJudSA  密码:mxoc
+下载个新的class-dump，链接 <a  href ="https://pan.baidu.com/s/128q6WLPUsrPYZN9NQJudSA">百度云下载</a> 密码:mxoc
 
 前往文件夹，/usr/local/bin，拷贝进去。
 至于在终端执行class-dump -H XXX.app，提示没有权限的，执行sudo class-dump -H XXX.app，然后输入你电脑密码即可。
 
 class-dump文件来源：
-感谢AloneMonkey提供:https://github.com/AloneMonkey/MonkeyDev.git
+<a  href ="https://github.com/AloneMonkey/MonkeyDev.git">感谢AloneMonkey提供</a>
 
 
