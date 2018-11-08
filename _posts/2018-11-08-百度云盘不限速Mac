@@ -1,0 +1,19 @@
+---
+layout:     post                    # 使用的布局（不需要改）
+title:      百度云盘不限速 for Mac               # 标题 
+subtitle:   体验飞一样的感觉    #副标题
+date:       2018-11-08              # 时间
+author:     梅洛                      # 作者
+header-img: img/post-bg-github-cup.jpg    #这篇文章标题背景图片
+catalog: true                       # 是否归档
+tags:                               #标签
+    - 生活
+---
+
+#### 参考：
+https://github.com/high-speed-downloader/high-speed-downloader
+
+亲测注意事项：
+1、电脑需要有 百度云盘客户端 和 谷歌浏览器
+2、如果谷歌浏览器提示：“无法从该网站添加应用，扩展程序或脚本”。 请打开拓展程序的 开发者模式 即可。
+3、操作：打开网页版百度云，点击要下载的文件，这时会拉起客户端，同时拉起加速器downloader，然后点击网页百度云的“高速下载”即可
